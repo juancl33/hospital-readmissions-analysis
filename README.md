@@ -30,7 +30,6 @@ After filtering to records with usable Excess Readmission Ratio values, the anal
 * Python
 * pandas
 * SciPy
-* matplotlib
 * Jupyter Notebook
 
 ## Repository Contents
