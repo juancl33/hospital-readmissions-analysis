@@ -127,13 +127,13 @@ The analysis did not find evidence of a statistically significant difference in 
 - **1,055 of 2,862 facilities (36.9%)** had at least 3 conditions above expected.
 - **36 facilities** had all 6 HRRP conditions above 1.0.
 
-![Facilities by number of HRRP conditions above expected](images/facility_above_expected_distribution.png)
+![Facilities by number of HRRP conditions above expected](facility_above_expected_distribution.png)
 
 ### Concentration of Positive ERR Excess
 
 When the magnitude of above-expected ERR was considered, **1,057 facilities (36.93%) accounted for 80% of aggregate positive ERR excess**.
 
-![Concentration of positive ERR excess across facilities](images/err_excess_concentration.png)
+![Concentration of positive ERR excess across facilities](err_excess_concentration.png)
 
 This concentration was more informative than the broad Medical/Surgical comparison because it highlighted a smaller group of facilities contributing disproportionately to the observed above-expected ERR magnitude.
 
